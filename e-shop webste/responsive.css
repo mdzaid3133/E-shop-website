@@ -1,0 +1,27 @@
+@media (max-width:1030px) {
+
+.home .home-banner-1{
+	background-position: 65% center;
+	min-height: 550px
+}
+.home .home-banner-2{
+    background-position: 65% center;
+	min-height: 550px
+}
+.home .home-banner .home-banner-text{
+    transform: translate(-80%,-50%);
+}
+ /*offers css*/
+ .offers .offer-box .offer-info-inner .heading-bigger{
+    font-size: 3rem;
+ }
+}
+@media (max-width:991px) {
+
+    
+}
+@media (max-width:767px) {
+    .home .home-banner .home-banner-text{
+    transform: translate(-66%,-50%);
+}
+}
